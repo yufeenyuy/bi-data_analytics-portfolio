@@ -19,7 +19,7 @@ The process to be implemented is shown on the following image!.
 |-------|------------------------------|-----------------------------------------------------------------------------|
 | 1     | [Data Integration](https://github.com/yufeenyuy/extract_load) | Data integration from Yelp API, Google Drive, and Hetzner stoarge-box into PostgreSQL with Python. |
 | 2     | [Transform & Modeling](https://github.com/yufeenyuy/modular_transform)         | Raw data transforming and modeling with SQL (flavour PostgreSQL) and dbt-postgresql adapter..              |
-| 3     | [Dashboard](./ELT-Phase3_Dashboard)         | Data Analysis of *Local Bakery* Production & sales data, and Yelp Business reviews with Power BI and R.          |
+| 3     | [Dashboard](https://github.com/yufeenyuy/data_analysis)         | Data Analysis of Yelp Business reviews with Power BI|
 | 4    | [Project Reports and Course Summaries](https://github.com/yufeenyuy/research-and-course_summaries)      | Summaries & reports from BI-related master's courses.                      |
 
 ---
