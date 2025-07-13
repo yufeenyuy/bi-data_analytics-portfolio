@@ -5,9 +5,9 @@ tar.yufenyuy@gmail.com | [LinkedIn](https://www.linkedin.com/in/yufenyuy-tardzen
 
 ---
 
-This repository consolidates all the components of my end-to-end Business Intelligence portfolio, built to demonstrate the implementation of a possible **Extract-Load-Transform and Analyse** Architecture in an organizational context. The key components of this architecture are: data integration, transformation & modeling, and storytelling. It also highlights of automating the entire process.
+This repository consolidates all the components of my end-to-end Business Intelligence portfolio, built to demonstrate the implementation of a possible **Extract-Load-Transform and Analyse** Architecture in an organizational context. The key components of this architecture are: data integration, transformation & modeling, and storytelling. It also highlights the possibility of automating the entire process.
 
-The process to be implemented is shown on the following image!.
+The BI ELT Architecture to be implemented is shown on the following image!.
 
 ![ELT-BI-Architecture](./img/elt_bi_architecture.png)
 
