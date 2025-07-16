@@ -18,8 +18,8 @@ The BI ELT Architecture to be implemented is shown on the following image!.
 | Phase | Title                        | Description                                                                 |
 |-------|------------------------------|-----------------------------------------------------------------------------|
 | 1     | [Data Integration](https://github.com/yufeenyuy/extract_load) | Data integration from Yelp API, Google Drive, and Hetzner stoarge-box into PostgreSQL with Python. |
-| 2     | [Transform & Modeling](https://github.com/yufeenyuy/modular_transform)         | Raw data transforming and modeling with SQL (flavour PostgreSQL) and dbt-postgresql adapter..              |
-| 3     | [Dashboard](https://github.com/yufeenyuy/data_analysis)         | Data Analysis of Yelp Business reviews with Power BI|
+| 2     | [Data Transformation & Modeling](https://github.com/yufeenyuy/modular_transform)         | Raw data transforming and modeling with SQL (flavour PostgreSQL) and dbt-postgresql adapter..              |
+| 3     | [Data Analysis in Power BI](https://github.com/yufeenyuy/data_analysis)         | Data Analysis of Yelp Business reviews with Power BI|
 | 4    | [Project Reports and Course Summaries](https://github.com/yufeenyuy/research-and-course_summaries)      | Summaries & reports from BI-related master's courses.                      |
 
 ---
