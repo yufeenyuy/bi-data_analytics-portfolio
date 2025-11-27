@@ -21,7 +21,7 @@ The BI ELT Architecture to be implemented is shown on the following image!.
 | | 2 | [Data Transformation & Modeling](https://github.com/yufeenyuy/modular_transform) | Raw data transforming and modeling with SQL (flavour PostgreSQL) and dbt-postgresql adapter. |
 | | 3 | [Data Analysis in Power BI](https://github.com/yufeenyuy/data_analysis) | Data Analysis of Yelp Business reviews with Power BI. |
 | | 4 | [Data Analysis in R](https://github.com/yufeenyuy/r_data_analysis) | Data Analysis of a fictive *Local Bakery in Paderborn* production data in R. Example univariate time series forcasting of most produced product. The most produced product should also be understood as the most sold product. |
-| B | All | HaloGreen DWH & ETL-Process & Data Analysis | [Designing and implementing a small DWH and its ETL-Process alongside analysing data based on possible KPIs](https://github.com/yufeenyuy/etl_technologies) |
+| B | All | [HaloGreen DWH & ETL-Process & Data Analysis](https://github.com/yufeenyuy/etl_technologies) | Designing and implementing a small DWH and its ETL-Process alongside analysing data based on possible KPIs |
 | C | All | [Project Reports and Course Summaries](https://github.com/yufeenyuy/research-and-course_summaries) | Summaries & reports from BI-related master's courses. |
 
 ---
